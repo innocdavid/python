@@ -1,3 +1,4 @@
+#TODO:
 """
 Writing a python program that counts up 
 the number of vowels in a string s.
@@ -15,6 +16,9 @@ for vowel in string0:
 print('The number of vowels is : ', count)
 
 
+
+
+#TODO:
 """
 Using multiple if statements and a for loop
 """
@@ -36,6 +40,9 @@ for i in string1:
         count += 1 
 print('the number of vowels in the string is: ',vowels)
 
+
+
+#TODO:
 """
 Using while loop to find the number of vowels in the string
 """
