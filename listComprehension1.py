@@ -2,7 +2,7 @@
 """
 Writing a program that reads a file and
 stips off the leading and trailing whitespaces
-in the file and store everythong in a list of
+in the file and store everything in a list of
 strings
 """
 
