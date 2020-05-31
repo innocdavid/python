@@ -26,4 +26,4 @@ while x < len(name):
     if name[x:x+3] == 'bob':
         count += 1 
     x += 1
-print('Number of times bob occurs is:',count)
+print('Number of times bob occurs is:', count)
