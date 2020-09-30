@@ -52,7 +52,7 @@ vowels = 0
 while count < len(string2):                    
     char = 0
     if string2[count] == 'a':
-        char += 1 
+        vowels += 1 
     elif string2[count] == 'e':
         vowels += 1 
     elif string2[count] == 'i':
